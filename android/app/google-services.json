@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "414787558947",
+    "firebase_url": "https://ketabaa-b1bac.firebaseio.com",
+    "project_id": "ketabaa-b1bac",
+    "storage_bucket": "ketabaa-b1bac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414787558947:android:d710572aedc134e6489b96",
+        "android_client_info": {
+          "package_name": "com.ibrahim.ketabaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414787558947-hjm2krthhhoc92oi247i3mb5q8667i1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_fiKXJ0kraPVk9WOICohpsv5ycs__IZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414787558947-hjm2krthhhoc92oi247i3mb5q8667i1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
